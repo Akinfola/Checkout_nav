@@ -1,0 +1,2 @@
+Application for singly,doubly and circular linked list in stack 
+Implement a queue using a stack 
